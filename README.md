@@ -1,4 +1,4 @@
-<h1>Hi, I'm Wyatt! <br/><a href="https://github.com/wyattrivas">IT Support Specialist</a> and <a href="https://www.linkedin.com/in/wyattrivas/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Wyatt! <br/><a href="https://github.com/wyattrivas">IT Support Specialist</a>, <a href="https://www.linkedin.com/in/wyattrivas/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
